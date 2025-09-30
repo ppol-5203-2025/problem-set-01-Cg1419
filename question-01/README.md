@@ -22,15 +22,15 @@ survey_qualtrics_12-10.csv: raw data from the survey
 
 4. figures/
 
-fig1.png: figure 1
+fig_1.png: figure 1
 
-fig2.png: figure 2
+fig_2.png: figure 2
 
-fig3.png: figure 3
+fig_3.png: figure 3
 
-fig4.png: figure 4
+fig_4.png: figure 4
 
-fig5.png: figure 5
+fig_5.png: figure 5
 
 fig1_appendix_hetero.png: figure 1 appendix with heteregenous effects
 
